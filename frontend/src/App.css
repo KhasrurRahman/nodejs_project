@@ -30,3 +30,13 @@
   text-align: center;
   width: 400px;
 }
+
+.input_button{
+  height: 44px;
+  width: 100px;
+  margin-left: 10%;
+}
+
+.main_div{
+  margin-left: 30%;
+}
